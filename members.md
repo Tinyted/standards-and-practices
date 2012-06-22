@@ -25,3 +25,4 @@
 #Learners
 
 - Darren Tsung (EvilFunnyBunny)
+- Jared Trouth (jaredtrouth)
