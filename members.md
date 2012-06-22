@@ -17,7 +17,7 @@
 
 - Yash Ahuja (yash3ahuja)
 - Zach Barnes (Zacharias3690)
-- Teddy Wong (Tinyted)
+- Teddy Wong (github:Tinyted, reddit:Tinytw, Languages Experienced in: Objective-C)
 
 #Associates
 
